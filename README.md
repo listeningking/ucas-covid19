@@ -73,6 +73,7 @@ Github提供了一个secret功能，用于存储密钥等敏感信息，请按�
 - 2020年6月12日 更新了README，提醒同学请勿直接在代码中填写密码
 - 2020年6月14日 更新了README，添加有关触发action运行的说明
 - 2020年6月24日 适配了网站的字段的更新；添加了 debug模式隐藏打卡信息；github action直接输出打卡结果；移除了 serverless 方式的支持
+- 2021年1月23日 加入打卡到国外的检测
 
 # 致谢
 - 感谢 [karuboniru](https://github.com/IanSmith123/ucas-covid19/pull/1) 提供的github actions 支持
